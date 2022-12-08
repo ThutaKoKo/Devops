@@ -1,1 +1,3 @@
-# seMethods
+[![LICENSE](https://img.shields.io/github/license/htoomyattun/sem.svg?style=flat-square)](https://github.com/thutakoko/sem/blob/master/LICENSE)
+[![Releases](https://img.shields.io/github/release/htoomyattun/sem/all.svg?style=flat-square)](https://github.com/thutakoko/sem/releases)
+![GitHub Workflow Status (develop)](https://img.shields.io/github/workflow/status/thutakoko/sem/workflow/develop?style=flat-square)
